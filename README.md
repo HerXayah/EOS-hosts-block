@@ -36,7 +36,7 @@ made with Unreal or even released on EGS.
 ### Manual
 
 - Open Hosts File
-- Paste this into it ``https://www.thicc-thighs.de/hosts`` and save
+- Paste this into it ``https://www.thicc-thighs.de/hosts`` and save (This is my website btw.)
 
 ## Tips
 
